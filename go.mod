@@ -1,7 +1,7 @@
 module github.com/otsuneko/livecam-map-backend
 
-go 1.19
-// +heroku goVersion go1.19
+// +heroku goVersion go1.18
+go 1.18
 
 require (
 	github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75 // indirect
