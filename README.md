@@ -4,7 +4,7 @@
 
 [ライブカメラ地図](https://livecam-map.vercel.app/)のバックエンド(Go+Gin+Postgres)
 
-[フロントエンド](https://github.com/otsuneko/livecam-map)
+[フロントエンド側のGitHubリポジトリ](https://github.com/otsuneko/livecam-map)
 
 - ~~日本中~~世界中のライブカメラ([日本](https://livecam.asia/)、[海外](https://www.cametan.com/world/))を地図上にプロットする
 - 雨雲レーダーを重畳する
